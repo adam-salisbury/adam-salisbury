@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @adam-salisbury
+- 👀 I'm interested in: .NET / C# apps, React js, Microsoft Azure and automated testing
+- 🌱 I'm currently learning: React js / node / Terraform 
+- I store useful templates for different kinds of projects and tools, including .NET apps & code snippets, Terraform deployment templates, React / Javascript snippets.
+- I'm a keen gamer and I also host my World of Warcraft blog, built using Strapi headless CMS and Gatsby site generator, on Github Pages.
